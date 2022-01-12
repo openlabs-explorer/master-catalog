@@ -14,7 +14,7 @@ tileInfo:
     - title: MariaDB
       id: MariaDB
       description: Easy to use immersive learning platform.
-      logo: _images/logo.png
+      logo: _images/mariadb_logo.png
       gitLink: https://github.com/openlabs-explorer/mariadb-operator
       enabled: true
       meta:
@@ -24,7 +24,7 @@ tileInfo:
     - title: Docker and Kubernetes
       id: docker_k8s
       description: Easy to use immersive learning platform.
-      logo: _images/logo.png
+      logo: _images/Docker_k8s_logo.png
       gitLink: https://github.com/openlabs-explorer/course-docker-kubernetes
       enabled: true
       meta:
@@ -34,7 +34,7 @@ tileInfo:
     - title: Kafka
       id: kafka
       description: Easy to use immersive learning platform.
-      logo: _images/logo.png
+      logo: _images/kafka_logo.png
       gitLink: https://github.com/openlabs-explorer/course-kafka
       enabled: true
       meta:
@@ -44,7 +44,7 @@ tileInfo:
     - title: MongoDB
       id: mongodb
       description: Easy to use immersive learning platform.
-      logo: _images/logo.png
+      logo: _images/mongodb_logo.png
       gitLink: https://github.com/openlabs-explorer/course-mongodb
       enabled: true
       meta:
@@ -54,7 +54,7 @@ tileInfo:
     - title: Prometheus
       id: prometheus
       description: Easy to use immersive learning platform.
-      logo: _images/logo.png
+      logo: _images/prometheus_logo.png
       gitLink: https://github.com/openlabs-explorer/course-prometheus
       enabled: true
       meta:
