@@ -11,13 +11,64 @@ branding:
         text: IBM Openlabs
         logo: _images/logo.png
 tileInfo:
-    - title: Openlabs Demo
-      id: openlabs_mock
+    - title: MariaDB
+      id: MariaDB
       description: Easy to use immersive learning platform.
       logo: _images/logo.png
-      gitLink: https://github.com/openlabs-explorer/demo
+      gitLink: https://github.com/openlabs-explorer/mariadb-operator
       enabled: true
       meta:
         type: lite
         categories:
           - Learning
+    - title: Docker and Kubernetes
+      id: docker_k8s
+      description: Easy to use immersive learning platform.
+      logo: _images/logo.png
+      gitLink: https://github.com/openlabs-explorer/course-docker-kubernetes
+      enabled: true
+      meta:
+        type: lite
+        categories:
+          - Learning
+    - title: Kafka
+      id: kafka
+      description: Easy to use immersive learning platform.
+      logo: _images/logo.png
+      gitLink: https://github.com/openlabs-explorer/course-kafka
+      enabled: true
+      meta:
+        type: regular
+        categories:
+          - Learning 
+    - title: MongoDB
+      id: mongodb
+      description: Easy to use immersive learning platform.
+      logo: _images/logo.png
+      gitLink: https://github.com/openlabs-explorer/course-mongodb
+      enabled: true
+      meta:
+        type: premium
+        categories:
+          - Learning 
+    - title: Prometheus
+      id: prometheus
+      description: Easy to use immersive learning platform.
+      logo: _images/logo.png
+      gitLink: https://github.com/openlabs-explorer/course-prometheus
+      enabled: true
+      meta:
+        type: premium
+        categories:
+          - Learning 
+    - title: Redis
+      id: redis
+      description: Easy to use immersive learning platform.
+      logo: _images/logo.png
+      gitLink: https://github.com/openlabs-explorer/course-redis
+      enabled: true
+      meta:
+        type: regular
+        categories:
+          - Learning           
+          
