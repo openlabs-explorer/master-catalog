@@ -12,7 +12,7 @@ branding:
         logo: _images/logo.png
 tileInfo:
     - title: MariaDB
-      id: MariaDB
+      id: MariaDB_mock
       description: Learn MariaDB from the experts.
       logo: _images/mariadb_logo.png
       gitLink: https://github.com/openlabs-explorer/mariadb-operator
@@ -22,7 +22,7 @@ tileInfo:
         categories:
           - Learning
     - title: Dockerise your applications and deploy on Kubernetes
-      id: docker_k8s
+      id: docker_k8s_mock
       description: Easy to use immersive learning platform.
       logo: _images/Docker_k8s_logo.png
       gitLink: https://github.com/openlabs-explorer/course-docker-kubernetes
@@ -32,7 +32,7 @@ tileInfo:
         categories:
           - Learning
     - title: Kafka
-      id: kafka
+      id: kafka_mock
       description: Understand Kafka concepts.
       logo: _images/kafka_logo.png
       gitLink: https://github.com/openlabs-explorer/course-kafka
@@ -42,7 +42,7 @@ tileInfo:
         categories:
           - Learning 
     - title: MongoDB
-      id: mongodb
+      id: mongodb_mock
       description: Get ready to use MongoDB in your application.
       logo: _images/mongodb_logo.png
       gitLink: https://github.com/openlabs-explorer/course-mongodb
@@ -52,7 +52,7 @@ tileInfo:
         categories:
           - Learning 
     - title: Prometheus
-      id: prometheus
+      id: prometheus_mock
       description: Understand and manage Prometheus metrics.
       logo: _images/prometheus_logo.png
       gitLink: https://github.com/openlabs-explorer/course-prometheus
@@ -62,7 +62,7 @@ tileInfo:
         categories:
           - Learning 
     - title: Redis
-      id: redis
+      id: redis_mock
       description: Learn Redis and get hands on using it.
       logo: _images/redis_logo.png
       gitLink: https://github.com/openlabs-explorer/course-redis
