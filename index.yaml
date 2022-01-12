@@ -13,7 +13,7 @@ branding:
 tileInfo:
     - title: MariaDB
       id: MariaDB
-      description: Easy to use immersive learning platform.
+      description: Learn MariaDB from the experts.
       logo: _images/mariadb_logo.png
       gitLink: https://github.com/openlabs-explorer/mariadb-operator
       enabled: true
@@ -21,7 +21,7 @@ tileInfo:
         type: lite
         categories:
           - Learning
-    - title: Docker and Kubernetes
+    - title: Dockerise your applications and deploy on Kubernetes
       id: docker_k8s
       description: Easy to use immersive learning platform.
       logo: _images/Docker_k8s_logo.png
@@ -33,7 +33,7 @@ tileInfo:
           - Learning
     - title: Kafka
       id: kafka
-      description: Easy to use immersive learning platform.
+      description: Understand Kafka concepts.
       logo: _images/kafka_logo.png
       gitLink: https://github.com/openlabs-explorer/course-kafka
       enabled: true
@@ -43,7 +43,7 @@ tileInfo:
           - Learning 
     - title: MongoDB
       id: mongodb
-      description: Easy to use immersive learning platform.
+      description: Get ready to use MongoDB in your application.
       logo: _images/mongodb_logo.png
       gitLink: https://github.com/openlabs-explorer/course-mongodb
       enabled: true
@@ -53,7 +53,7 @@ tileInfo:
           - Learning 
     - title: Prometheus
       id: prometheus
-      description: Easy to use immersive learning platform.
+      description: Understand and manage Prometheus metrics.
       logo: _images/prometheus_logo.png
       gitLink: https://github.com/openlabs-explorer/course-prometheus
       enabled: true
@@ -63,8 +63,8 @@ tileInfo:
           - Learning 
     - title: Redis
       id: redis
-      description: Easy to use immersive learning platform.
-      logo: _images/logo.png
+      description: Learn Redis and get hands on using it.
+      logo: _images/redis_logo.png
       gitLink: https://github.com/openlabs-explorer/course-redis
       enabled: true
       meta:
