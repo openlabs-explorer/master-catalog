@@ -22,7 +22,7 @@ tileInfo:
         categories:
           - Learning
     - title: Dockerise your applications and deploy on Kubernetes
-      id: openlabs_mock
+      id: docker_k8s_mock
       description: Easy to use immersive learning platform.
       logo: _images/Docker_k8s_logo.png
       gitLink: https://github.com/openlabs-explorer/course-docker-kubernetes
